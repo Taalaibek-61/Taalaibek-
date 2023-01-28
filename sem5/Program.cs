@@ -8,7 +8,7 @@
 {
     int sum = 0;
     for(int current = 1; current <= num; current++)
-     sum =+ current; // sum = sum = current;
+     sum += current; // sum = sum + current;
      return sum;
     
 }
@@ -17,9 +17,9 @@ Console.Write("Input a number");
 int a = Convert.ToInt32(Console.ReadLine());
 
 int resalt = GetSum(a);
-Console.Write(resalt));*/
+Console.Write(resalt);*/
 
-int[] GreatRandomArray(int size, int minValue, int maxValue)
+/*int[] GreatRandomArray(int size, int minValue, int maxValue)
 {
     int[] array = new int[size];
 
@@ -42,4 +42,28 @@ Console.WriteLine("Input a max passible value:  ");
 int max = Convert.ToInt32(Console.ReadLine());
 
 int[] newArray = GreatRandomArray(m, min, max);
-ShowArray(newArray);
+ShowArray(newArray);*/
+
+
+/*int GetSum(int num)
+{
+    int sum = 0;
+    for(int current = 0; current <= num; current++)
+     sum += current; // sum = sum + current;
+     return sum;
+    
+}
+чяя
+int a = Convert.ToInt32(Console.ReadLine());
+
+int resalt = GetSum(a);
+Console.Write(resalt);*/
+
+
+
+
+/*Console.WriteLine("Input a number");
+int a = Convert.ToInt32(Console.ReadLine());
+int s = 0; 
+ s = a % 10;
+Console.WriteLine("s");*/

@@ -1,0 +1,15 @@
+C:\Users\User\Searches\Desktop\Sem\sem5\obj\Debug\net6.0\sem5.csproj.AssemblyReference.cache
+C:\Users\User\Searches\Desktop\Sem\sem5\obj\Debug\net6.0\sem5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Searches\Desktop\Sem\sem5\obj\Debug\net6.0\sem5.AssemblyInfoInputs.cache
+C:\Users\User\Searches\Desktop\Sem\sem5\obj\Debug\net6.0\sem5.AssemblyInfo.cs
+C:\Users\User\Searches\Desktop\Sem\sem5\obj\Debug\net6.0\sem5.csproj.CoreCompileInputs.cache
+C:\Users\User\Searches\Desktop\Sem\sem5\bin\Debug\net6.0\sem5.exe
+C:\Users\User\Searches\Desktop\Sem\sem5\bin\Debug\net6.0\sem5.deps.json
+C:\Users\User\Searches\Desktop\Sem\sem5\bin\Debug\net6.0\sem5.runtimeconfig.json
+C:\Users\User\Searches\Desktop\Sem\sem5\bin\Debug\net6.0\sem5.dll
+C:\Users\User\Searches\Desktop\Sem\sem5\bin\Debug\net6.0\ref\sem5.dll
+C:\Users\User\Searches\Desktop\Sem\sem5\bin\Debug\net6.0\sem5.pdb
+C:\Users\User\Searches\Desktop\Sem\sem5\obj\Debug\net6.0\sem5.dll
+C:\Users\User\Searches\Desktop\Sem\sem5\obj\Debug\net6.0\ref\sem5.dll
+C:\Users\User\Searches\Desktop\Sem\sem5\obj\Debug\net6.0\sem5.pdb
+C:\Users\User\Searches\Desktop\Sem\sem5\obj\Debug\net6.0\sem5.genruntimeconfig.cache
